@@ -25,7 +25,7 @@ current_focus: "AI-driven Web/Mobile applications, performance optimization & re
 
 ## Tech Stack & Tools
 
-<p justify="between" align="center">
+<p flex align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,qt,github,git,vscode,linux,rust,neovim,arch,react,vite,typescript,fastapi,docker" alt="Tech Stack" />
 </p>
 
