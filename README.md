@@ -11,7 +11,8 @@
 ```yaml
 name: "Amogh Kallimath"
 skills: ["AI", "Machine Learning", "Path Tracing", "Agentic AI","Web/App Development"]
-tech_stack: ["Python", "C++", "Dart", "PyTorch", "Librosa", "Flutter", "Rust","CrewAI", "Typescript", "React+Vite", "React Native"]
+tech_stack: ["Python", "C++", "Dart", "PyTorch", "Librosa", "Flutter", "Rust",
+             "CrewAI", "Agno", "Typescript", "React+Vite", "React Native","Docker", "HuggingFace"]
 current_focus: "AI-driven Web/Mobile applications, performance optimization & real-time data processing"
 ```
 
@@ -24,8 +25,8 @@ current_focus: "AI-driven Web/Mobile applications, performance optimization & re
 
 ## Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,qt,github,git,vscode,linux,rust,neovim,arch,react,vite,typescript,fastapi" alt="Tech Stack" />
+<p justify="between" align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,qt,github,git,vscode,linux,rust,neovim,arch,react,vite,typescript,fastapi,docker" alt="Tech Stack" />
 </p>
 
 
