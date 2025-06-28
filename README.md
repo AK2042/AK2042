@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=3000&color=F75C7E&center=true&width=550&lines=AI+Enthusiast+%7C+ML+Developer+%7C+Tech+Innovator;Developing Responsive Web/Mobile Applications;Building+high-performance+AI+solutions;Open-source+contributor+and+problem-solver;Exploring+Agentic+AI+and+real-time+data+processing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=3000&color=F75C7E&center=true&width=550&lines=AI+Enthusiast+%7C+ML+Developer+%7C+Tech+Innovator;Developing-Responsive-Web/Mobile-Applications;Building+high-performance+AI+solutions;Open-source+contributor+and+problem-solver;Exploring+Agentic+AI+and+real-time+data+processing" alt="Typing Animation" />
 </p>
 
 ---
@@ -25,8 +25,8 @@ current_focus: "AI-driven Web/Mobile applications, performance optimization & re
 
 ## Tech Stack & Tools
 
-<p flex align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,qt,github,git,vscode,linux,rust,neovim,arch,react,vite,typescript,fastapi,docker" alt="Tech Stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,qt,github,git,vscode,linux,rust,neovim,arch,react,vite,typescript,fastapi,docker" width=300 alt="Tech Stack" />
 </p>
 
 
