@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=3000&color=F75C7E&center=true&width=550&lines=AI+Enthusiast+%7C+ML+Developer+%7C+Tech+Innovator;Developing-Responsive-Web/Mobile-Applications;Building+high-performance+AI+solutions;Open-source+contributor+and+problem-solver;Exploring+Agentic+AI+and+real-time+data+processing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=3000&color=F75C7E&center=true&width=600&lines=AI-Enthusiast-ML-Developer-Tech-Innovator;Developing-Responsive-Web/Mobile-Applications;Building-high-performance+AI+solutions;Exploring-Agentic-AI-and-real-time-data-processing" alt="Typing Animation" />
 </p>
 
 ---
