@@ -26,7 +26,7 @@ current_focus: "AI-driven Web/Mobile applications, performance optimization & re
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ai,cpp,dart,flutter,qt,github,git,figma,vscode,linux,rust,opencv,pytorch,pkl,powershell,raspberrypi,md,neovim,arch,react,vite,typescript,fastapi,docker,arduino,bash,mongodb&perline=14&theme=dark"  alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,ai,cpp,dart,flutter,qt,github,git,figma,vscode,linux,rust,opencv,pytorch,pkl,sklearn,powershell,raspberrypi,md,neovim,arch,react,vite,typescript,fastapi,postman,docker,arduino,bash,mongodb&perline=15&theme=dark"  alt="Tech Stack" />
 </p>
 
 
